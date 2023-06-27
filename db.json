@@ -1,0 +1,34 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Joseph",
+      "age": 38,
+      "picture": "https://randomuser.me/api/portraits/men/1.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Mortimer",
+      "age": 30,
+      "picture": "https://randomuser.me/api/portraits/men/2.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Pumuki",
+      "age": 24,
+      "picture": "https://randomuser.me/api/portraits/men/3.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Pablo",
+      "age": 60,
+      "picture": "https://randomuser.me/api/portraits/men/4.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Dredd",
+      "age": 36,
+      "picture": "https://randomuser.me/api/portraits/men/5.jpg"
+    }
+  ]
+}
